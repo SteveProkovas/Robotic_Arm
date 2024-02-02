@@ -95,17 +95,5 @@ Building a miniature robotic arm with the specified features involves several st
 ### 12. **Documentation:**
     - Create comprehensive documentation, including assembly instructions, calibration procedures, and user manuals.
     - Provide a detailed guide on how to use the GUI and control the robotic arm.
-
-### 13. **Community Engagement:**
-    - Share your project on platforms like GitHub to encourage community involvement.
-    - Establish forums or channels for users to share experiences and ask questions.
-
-### 14. **Iterative Improvement:**
-    - Gather user feedback and iteratively improve the design based on real-world use cases.
-    - Continuously update documentation to reflect any improvements or changes.
-
-### 15. **Publish and Share:**
-    - Publish your project on open-source platforms, such as GitHub, to share it with the community.
-    - Encourage others to contribute, providing a platform for collaborative development.
-
+    
 By following these steps, you can develop a compact and precise robotic arm with 6 degrees of freedom, suitable for a variety of applications in confined spaces. Remember to balance precision with ease of use, making the project accessible to users with different levels of expertise.
