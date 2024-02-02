@@ -42,10 +42,11 @@
     - The project encourages community involvement, providing forums and channels for users to share experiences, ask questions, and contribute to the development of the robotic arm.
 
 
-How to Build
 
 
-Building a miniature robotic arm with the specified features involves several steps, including mechanical design, electronics integration, control system development, and testing. Below is a guide to help you get started:
+
+**How to Build:**
+
 
 ### 1. **Define Project Requirements:**
    - Clearly define the project requirements based on the adjusted specifications.
